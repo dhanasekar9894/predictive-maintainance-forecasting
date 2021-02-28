@@ -1,1 +1,1 @@
-# predictive-maintainance-orecasting
+# predictive-maintainance-forecasting
